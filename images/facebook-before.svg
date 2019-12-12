@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="facebook-square"
+   class="svg-inline--fa fa-facebook-square fa-w-14"
+   role="img"
+   viewBox="0 0 448 512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="facebook-before.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <linearGradient
+       id="linearGradient4133"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4135" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="721"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="224"
+     inkscape:cy="352.84545"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-page="false" />
+  <path
+     fill="currentColor"
+     d="M448 80v352c0 26.5-21.5 48-48 48h-85.3V302.8h60.6l8.7-67.6h-69.3V192c0-19.6 5.4-32.9 33.5-32.9H384V98.7c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9H184v67.6h60.9V480H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48z"
+     id="path4"
+     style="fill:#ffffff;fill-opacity:1;stroke:#4f7dfd;stroke-opacity:1" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 240.81356,479.45763 71.59322,0 z"
+     id="path5573"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#4f7dfd;fill-opacity:1;stroke:#4f7dfd;stroke-width:2.16949153;stroke-opacity:1"
+     d="m 246.56271,389.7715 0,-87.86441 -30.37288,0 -30.37288,0 0,-32.54237 0,-32.54237 30.37288,0 30.37288,0 0.0257,-34.16949 c 0.0162,-21.50712 1.09691,-38.1893 2.91629,-45.01695 7.69487,-28.87694 23.39902,-45.92448 50.81278,-55.1595 10.66773,-3.593703 18.73596,-4.496705 40.00725,-4.477643 14.65459,0.01313 30.30573,0.629005 34.7803,1.368607 l 8.1356,1.344726 0,29.00428 0,29.00427 -25.05689,0 c -40.81928,0 -44.36684,3.98429 -44.36684,49.82863 l 0,28.27307 34.34728,0 34.34728,0 -3.90827,28.74576 c -2.14955,15.81017 -3.93802,30.45424 -3.9744,32.54237 -0.0598,3.43188 -2.98398,3.79661 -30.43901,3.79661 l -30.37288,0 0,87.86441 0,87.86441 -33.62712,0 -33.62712,0 0,-87.86441 z"
+     id="path5575"
+     inkscape:connector-curvature="0" />
+</svg>
