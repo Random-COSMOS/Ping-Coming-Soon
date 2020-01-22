@@ -1,8 +1,8 @@
-*{
+* {
     padding-bottom: 0;
 }
 
-.top{
+.top {
     text-align: center;
     display: flex;
     justify-content: center;
@@ -10,23 +10,23 @@
     margin: 25px 0 10px 0;
 }
 
-.op{
+.op {
     font-family: 'libre franklin';
     font-weight: 700;
 }
 
-.square{
+.square {
     width: 5px;
     height: 5px;
     background-color: hsl(223, 87%, 63%);
     margin: 44px 0 0 0;
 }
 
-.logo{
+.logo {
     margin: 50px 0 20px 0;
 }
 
-.heading{
+.heading {
     font-family: 'Libre Franklin', sans-serif;
     font-weight: 300;
     color: hsl(0, 0%, 59%);
@@ -35,13 +35,13 @@
     text-align: center;
 }
 
-km{
+km {
     font-family: 'Libre Franklin', sans-serif;
     font-weight: 700;
     color: black;
 }
 
-.sub-heading{
+.sub-heading {
     text-align: center;
     color: hsl(209, 33%, 12%);
     font-family: 'libre franklin';
@@ -49,23 +49,23 @@ km{
     margin: 0px 10px;
 }
 
-form{
+form {
     text-align: center;
     margin: 20px 0 40px 0;
 }
 
-input[type="email"]{
+input[type="email"] {
     width: 300px;
     border: 1px solid hsl(223, 100%, 88%);
     border-radius: 50px;
     padding: 10px 15px;
 }
 
-input[placeholder="Your email address..."]{
+input[placeholder="Your email address..."] {
     color: hsl(223, 100%, 88%);
 }
 
-input[type="submit"]{
+input[type="submit"] {
     width: 135px;
     border-radius: 50px;
     padding: 10px 15px;
@@ -76,36 +76,43 @@ input[type="submit"]{
     transition: box-shadow 0.5s;
 }
 
-input[type="submit"]:hover{
+input[type="submit"]:hover {
     box-shadow: 3px 3px 4px hsl(223, 100%, 88%);
 }
 
-.ill{
+.ill {
     display: block;
     width: 435px;
     margin: 0 auto;
 }
 
-footer{
+footer {
     display: flex;
     justify-content: center;
 }
 
-.social{
+.social {
     width: 20px;
     height: 20px;
     cursor: pointer;
     padding-top: 20px;
 }
 
-.social:not(:first-of-type){
+.social:not(:first-of-type) {
     padding-left: 20px;
 }
 
-.copy{
+.copy {
     text-align: center;
     color: hsl(0, 0%, 59%);
     font-family: 'libre franklin';
     font-size: 8px;
     margin-top: 10px;
+}
+
+@media only screen and (max-width: 450px) {
+    input[type="submit"] {
+        margin-top: 10px;
+        width: 70%;
+    }
 }
